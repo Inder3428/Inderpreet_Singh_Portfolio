@@ -20,8 +20,8 @@ html {
 }
 
 .hero {
-  background-image: url(5586031.jpg);
-  background: linear-gradient(rgba(31, 44, 108, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url("5586031.jpg") no-repeat;
+  background-image: url(wal.jpg);
+  background: linear-gradient(rgba(31, 44, 108, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url("wal.jpg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
